@@ -1,0 +1,25 @@
+﻿<Page x:Class="Landwar.Editor.MainMenu"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    Title="MainMenu">
+    <Grid>
+        <Grid Name="grdLayout">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="45"></RowDefinition>
+                <RowDefinition Height="45"></RowDefinition>
+                <RowDefinition Height="45"></RowDefinition>
+                <RowDefinition Height="45"></RowDefinition>
+                <RowDefinition Height="45"></RowDefinition>
+            </Grid.RowDefinitions>
+            
+            <Button Height="23" HorizontalAlignment="Center"  Name="btnNewMap" VerticalAlignment="Center"  Width="75" Grid.Column="0" Grid.Row="0" Click="btnNewMap_Click">New Map</Button>
+            <Button Height="23" HorizontalAlignment="Center"  Name="btnEditMap" VerticalAlignment="Center"  Width="75" Grid.Column="0" Grid.Row="1">Edit Map</Button>
+            <Button Height="23" HorizontalAlignment="Center"  Name="btnEditTerrain" VerticalAlignment="Center"  Width="75" Grid.Column="0" Grid.Row="2">Edit Terrain</Button>
+            <Button Height="23" HorizontalAlignment="Center"  Name="btnEditUnits" VerticalAlignment="Center"  Width="75" Grid.Column="0" Grid.Row="3" Click="btnEditUnits_Click">Edit Units</Button>
+            <Button Height="23" HorizontalAlignment="Center"  Name="btnQuit" VerticalAlignment="Center"  Width="75" Grid.Column="0" Grid.Row="4" Click="btnQuit_Click">Quit</Button>
+        </Grid>
+    </Grid>
+</Page>

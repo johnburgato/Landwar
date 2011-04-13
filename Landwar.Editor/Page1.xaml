@@ -1,0 +1,22 @@
+﻿<Page x:Class="Landwar.Editor.Page1"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    Title="Page1">
+    <Grid>
+        
+        
+        <Label Height="28" Name="label1" VerticalAlignment="Top">John 2</Label>
+        <Canvas Margin="12,26,12,12" Name="canvas1" >
+            <!-- h=42 w=26 + 12 + 12 -->
+            <!--<Polygon Points="300,200 400,125 400,275 300,200" -->
+            <Polygon Points="0,21 12,0 38,0 50,21 38,42 12,42 0,21" Name="pGon1"
+                Stroke="Purple" 
+                StrokeThickness="0" ClipToBounds="True" MouseMove="Polygon_MouseMove">
+                <Polygon.Fill>
+                    <ImageBrush ImageSource="C:/Development/projects/Landwar/Shared/HexRed.png" Viewbox="0,0,1,1" ViewboxUnits="RelativeToBoundingBox" Stretch="Uniform" />
+                </Polygon.Fill> 
+            </Polygon>
+            <Label Canvas.Left="70" Canvas.Top="8" Height="28" Name="lblOutput" Width="200">Label</Label>
+        </Canvas>
+    </Grid>
+</Page>

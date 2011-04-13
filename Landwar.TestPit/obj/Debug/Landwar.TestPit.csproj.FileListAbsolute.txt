@@ -1,0 +1,11 @@
+C:\Development\projects\Landwar\Landwar.TestPit\obj\Debug\ResolveAssemblyReference.cache
+C:\Development\projects\Landwar\Landwar.TestPit\obj\Debug\Landwar.TestPit.Form1.resources
+C:\Development\projects\Landwar\Landwar.TestPit\obj\Debug\Landwar.TestPit.Properties.Resources.resources
+C:\Development\projects\Landwar\Landwar.TestPit\obj\Debug\Landwar.TestPit.csproj.GenerateResource.Cache
+C:\Development\projects\Landwar\Landwar.TestPit\bin\Debug\Landwar.TestPit.exe
+C:\Development\projects\Landwar\Landwar.TestPit\bin\Debug\Landwar.TestPit.pdb
+C:\Development\projects\Landwar\Landwar.TestPit\bin\Debug\Landwar.Data.dll
+C:\Development\projects\Landwar\Landwar.TestPit\bin\Debug\Landwar.Data.pdb
+C:\Development\projects\Landwar\Landwar.TestPit\obj\Debug\Landwar.TestPit.exe
+C:\Development\projects\Landwar\Landwar.TestPit\obj\Debug\Landwar.TestPit.pdb
+C:\Development\projects\Landwar\Landwar.TestPit\bin\Debug\Landwar.TestPit.exe.config

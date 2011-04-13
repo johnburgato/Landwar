@@ -1,0 +1,6 @@
+C:\Development\projects\Landwar\Landwar.Data\bin\Debug\Landwar.Data.dll.config
+C:\Development\projects\Landwar\Landwar.Data\bin\Debug\Landwar.Data.dll
+C:\Development\projects\Landwar\Landwar.Data\bin\Debug\Landwar.Data.pdb
+C:\Development\projects\Landwar\Landwar.Data\obj\Debug\ResolveAssemblyReference.cache
+C:\Development\projects\Landwar\Landwar.Data\obj\Debug\Landwar.Data.dll
+C:\Development\projects\Landwar\Landwar.Data\obj\Debug\Landwar.Data.pdb
